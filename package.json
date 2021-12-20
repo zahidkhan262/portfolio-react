@@ -2,7 +2,6 @@
   "name": "portfolio-react",
   "version": "0.1.0",
   "private": true,
-  //...
 "homepage": "http://zahidkhan262.github.io/portfolio-react",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
